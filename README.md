@@ -39,9 +39,9 @@ Before you begin, ensure you have met the following requirements:
 
 3. Open the project in Unity.
 
-4. Run and track the book using the computer's webcam.
+4. Run to track the book using the computer's webcam.
 
-5. Have the book handy of print the images from [front](https://vanderbilt.box.com/s/ez0elkownwpo5i19px4h7hiqy2lbo1fs) and [back](https://vanderbilt.box.com/s/drga1hcngojxw2igio3n1vmz49y5y6d7) covers.
+5. Have the book handy or use the images from [front](https://vanderbilt.box.com/s/ez0elkownwpo5i19px4h7hiqy2lbo1fs) and [back](https://vanderbilt.box.com/s/drga1hcngojxw2igio3n1vmz49y5y6d7) covers.
 
 ## How to Use
 
