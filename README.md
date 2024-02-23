@@ -56,6 +56,8 @@ Before you begin, ensure you have met the following requirements:
   
 ## Video Demo
 
+Video available [here](https://vanderbilt.box.com/s/xnl7oxyhtha1d968bnnzfb6liwm1nkso)
+
 <video width="640" height="360" controls>
   <source src="https://vanderbilt.box.com/s/xnl7oxyhtha1d968bnnzfb6liwm1nkso" type="video/mp4">
   Your browser does not support the video tag.
